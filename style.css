@@ -1,0 +1,28 @@
+
+body{
+    background-color: beige;
+
+
+
+
+}
+.Circle{
+    position:absolute;
+    width: 80px;
+    height: 80px;
+    background-color: rgb(8, 87, 233);
+    left: 50%;
+    bottom: 50%;
+    border-radius: 45px;
+    border:black 1px solid;
+}
+.Counter{
+    font-size: 40px;
+    text-align: right;
+    padding-right: 20px;
+    margin-top: 20px;
+
+
+
+
+}
